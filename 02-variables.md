@@ -12,6 +12,7 @@
   - Une variable commence obligatoirement par un `$`.
   - Elle peut contenir des nombres, mais ne peux commencer par un nombre.
   - Elle peut contenir des tirets bas (`_`), mais pas de tirets (`-`).
+  - Les variables sont sensible à la casse (`$maVariable` est différente de `$mavariable`).
 
 ## Conventions de nommage
 Enormément de personnes utilisent PHP. Il existe donc des _conventions_ pour à peu près tout (noms de variables, de fonctions, de classes, etc...). Concernant les variables, on utilisera de préférence la notation _lowerCamelCase_ : la variable commence par une minuscule, puis tous les mots la composant sont collés les un aux autres, la première de leur lettre en majuscule.
