@@ -31,5 +31,3 @@ $email = "jack@hotmail.com";
 $inscription = time();
 
 $ajouter_contact->execute();
-
-
