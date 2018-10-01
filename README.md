@@ -12,16 +12,16 @@ Plus d'infos : http://niamor.com/
  - [Installation](00-installation.md)
  - [La Syntaxe](01-syntaxe.md)
  - [Les variables](02-variables.md)
- - Les constantes
- - Les opérateurs
- - Les conditions
- - Les boucles
- - Les tableaux
- - Les fonctions
- - Les super-globales
+ - [Les constantes](03-constantes.md)
+ - [Les opérateurs](04-operateurs.m)
+ - [Les conditions](05-conditions.md)
+ - [Les boucles](06-boucles.md)
+ - [Les tableaux](tableaux.md)
+ - [Les fonctions](fonctions.md)
+ - [Les super-globales](super-globales.md)
 
 
- - Les classes / l'object
- - Les espaces de noms
+ - [Les classes / l'object](classes-objets.md)
+ - [Les espaces de noms](espaces-de-noms.md)
 
 Pour chaque partie, un fichier d'exemple existe.
