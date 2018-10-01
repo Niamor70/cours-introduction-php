@@ -33,3 +33,5 @@ define("Message_d_Accueil", "Bonjour le monde.", true);
 echo message_d_accueil;
 echo MESSAGE_D_ACCUEIL;
 ```
+
+Les constantes ont une portée globale, une fois définies elles sont accessible depuis n'importe quelle fonction dans votre code.
